@@ -1,4 +1,4 @@
-## [SimpleShopApp]() 
+## [SimpleShopApp](https://simpleshop-app.vercel.app/) 
 ### using NextJS
 
 After cloning this repo, to run the development server:
